@@ -5,4 +5,5 @@
 ## решение
 
 name = input()
+
 print("Привет,", name)
